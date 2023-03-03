@@ -1,14 +1,8 @@
-# React Component Testing: Demo Start
+# React Component Testing: Demo End
 
-This is the starter of the React Component Testing demo.
+This is the end of the React Component Testing demo.
 
 ## Development
-
-### CodeSandbox
-
-Select the "Browser" tab to view this project. If this project contains tests, select the "Tests" tab to check your progress.
-
-> 💡 Please note that Next.js support on CodeSandbox is not great.
 
 ### Local development
 
